@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|d:\\doan_ltud\\doan_ltud\\doanltud\\doanltud\\frmaddresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|solutionrelative:doanltud\\frmaddresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|d:\\doan_ltud\\doan_ltud\\doanltud\\doanltud\\frmaddresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|solutionrelative:doanltud\\frmaddresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|d:\\doan_ltud\\doan_ltud\\doanltud\\doanltud\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|solutionrelative:doanltud\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|d:\\doan_ltud\\doan_ltud\\doanltud\\doanltud\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|solutionrelative:doanltud\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|d:\\doan_ltud\\doan_ltud\\doanltud\\doanltud\\frmaddsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|solutionrelative:doanltud\\frmaddsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|d:\\doan_ltud\\doan_ltud\\doanltud\\doanltud\\themkhenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|solutionrelative:doanltud\\themkhenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|d:\\doan_ltud\\doan_ltud\\doanltud\\doanltud\\themkhenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|solutionrelative:doanltud\\themkhenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|d:\\doan_ltud\\doan_ltud\\doanltud\\doanltud\\frmaddsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AF650F3-F00F-44AD-84CF-4E8008C4CE3F}|DoAnLTUD\\DoAnLTUD.csproj|solutionrelative:doanltud\\frmaddsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\frmMenu.cs",
+              "RelativeDocumentMoniker": "DoAnLTUD\\frmMenu.cs",
+              "ToolTip": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\frmMenu.cs",
+              "RelativeToolTip": "DoAnLTUD\\frmMenu.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwEsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:59:16.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMenu.cs [Design]",
+              "DocumentMoniker": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\frmMenu.cs",
+              "RelativeDocumentMoniker": "DoAnLTUD\\frmMenu.cs",
+              "ToolTip": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\frmMenu.cs [Design]",
+              "RelativeToolTip": "DoAnLTUD\\frmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:59:11.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAddSubjects.cs",
+              "DocumentMoniker": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\frmAddSubjects.cs",
+              "RelativeDocumentMoniker": "DoAnLTUD\\frmAddSubjects.cs",
+              "ToolTip": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\frmAddSubjects.cs",
+              "RelativeToolTip": "DoAnLTUD\\frmAddSubjects.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAQwK8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:43:18.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmAddSubjects.cs [Design]",
+              "DocumentMoniker": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\frmAddSubjects.cs",
+              "RelativeDocumentMoniker": "DoAnLTUD\\frmAddSubjects.cs",
+              "ToolTip": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\frmAddSubjects.cs [Design]",
+              "RelativeToolTip": "DoAnLTUD\\frmAddSubjects.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:43:17.347Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThemKhenThuong.cs [Design]",
+              "DocumentMoniker": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\ThemKhenThuong.cs",
+              "RelativeDocumentMoniker": "DoAnLTUD\\ThemKhenThuong.cs",
+              "ToolTip": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\ThemKhenThuong.cs [Design]",
+              "RelativeToolTip": "DoAnLTUD\\ThemKhenThuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:12:24.98Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThemKhenThuong.cs",
+              "DocumentMoniker": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\ThemKhenThuong.cs",
+              "RelativeDocumentMoniker": "DoAnLTUD\\ThemKhenThuong.cs",
+              "ToolTip": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\ThemKhenThuong.cs",
+              "RelativeToolTip": "DoAnLTUD\\ThemKhenThuong.cs",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAAwKEBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:39:24.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddResults.cs [Design]",
+              "DocumentMoniker": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\frmAddResults.cs",
+              "RelativeDocumentMoniker": "DoAnLTUD\\frmAddResults.cs",
+              "ToolTip": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\frmAddResults.cs [Design]",
+              "RelativeToolTip": "DoAnLTUD\\frmAddResults.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:12:04.153Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddResults.cs",
+              "DocumentMoniker": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\frmAddResults.cs",
+              "RelativeDocumentMoniker": "DoAnLTUD\\frmAddResults.cs",
+              "ToolTip": "D:\\DoAn_LTUD\\DoAn_LTUD\\DoAnLTUD\\DoAnLTUD\\frmAddResults.cs",
+              "RelativeToolTip": "DoAnLTUD\\frmAddResults.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:39:07.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
